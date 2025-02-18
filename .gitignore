@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # Configuración de entorno virtual
-enviroment/
+environment/
 
 # Archivos de Django
 db.sqlite3
